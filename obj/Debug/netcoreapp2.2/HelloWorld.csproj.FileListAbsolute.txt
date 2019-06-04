@@ -1,0 +1,22 @@
+\\home.amerus.corp.tld\users\E72593\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+\\home.amerus.corp.tld\users\E72593\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+\\home.amerus.corp.tld\users\E72593\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+\\home.amerus.corp.tld\users\E72593\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+\\home.amerus.corp.tld\users\E72593\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+\\home.amerus.corp.tld\users\E72593\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+\\home.amerus.corp.tld\users\E72593\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+\\home.amerus.corp.tld\users\E72593\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+\\home.amerus.corp.tld\users\E72593\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+\\home.amerus.corp.tld\users\E72593\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+\\home.amerus.corp.tld\users\E72593\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+\\home.amerus.corp.tld\users\E72593\VS Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
